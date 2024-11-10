@@ -4,9 +4,17 @@ https://nodejs.org/en/download/package-manager
 
 echo $PATH
 
+vim ~/.bash_profile
 export PATH=$PATH:/usr/local/bin
+source ~/.bash_profile
+---------------------------------
+For windows:
+Edit system parameter
+  NODE_HOME 
 
 2. Install Visual Studio
+Search visual studio code
+
 3. Install Playwright dependencies
 
 
