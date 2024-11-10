@@ -1,1 +1,11 @@
+1. Install Node.js
+Search node install in browser
+https://nodejs.org/en/download/package-manager
+
+echo $PATH
+
+export PATH=$PATH:/usr/local/bin
+
+2. Install Visual Studio
+3. Install Playwright dependencies
 
