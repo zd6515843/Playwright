@@ -9,3 +9,10 @@ export PATH=$PATH:/usr/local/bin
 2. Install Visual Studio
 3. Install Playwright dependencies
 
+
+
+
+To save env file with below steps in sequence
+1. ESC button
+2. :wq
+3. Enter button
