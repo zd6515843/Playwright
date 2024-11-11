@@ -16,6 +16,9 @@ Edit system parameter
 Search visual studio code
 
 3. Install Playwright dependencies
+create new folder and open folder with vs code
+- npm init playwright
+
 
 
 
@@ -24,3 +27,6 @@ To save env file with below steps in sequence
 1. ESC button
 2. :wq
 3. Enter button
+
+
+npx playwright test
